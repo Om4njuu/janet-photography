@@ -46,11 +46,11 @@
 
   var works = [
     {t:'Low Tide', n:'01', image:'images/2.jpg'},
-    {t:'Nature', n:'02', image:'images/1.jpg'},
+    {t:'Nature', n:'02', image:'images/7.jpg'},
     {t:'Nightshade', n:'03', image:'images/5.jpg'},
     {t:'Concrete Bloom', n:'04', image:'images/6.jpg'},
     {t:'Quiet Hour', n:'05', image:'images/4.jpg'},
-    {t:'Afterimage', n:'06', image:'images/3.jpg'}
+    {t:'Afterimage', n:'06', image:'images/8.jpg'}
   ];
   var grid = document.getElementById('workGrid');
   var palettes = [
